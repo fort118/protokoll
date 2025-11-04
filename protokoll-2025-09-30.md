@@ -65,14 +65,14 @@ Kenneth redogjorde för ekonomin.
 - Styrelsen enades om detta.  
 - Första träffen: **4 november 2025, kl. 19.00** (efter Alla helgons dag).  
 
-### §12 Föreningens webbplats  
+### §8 Föreningens webbplats  
 - Finn efterfrågade status.  
 - Jeremy meddelade att arbetet pågår och delade länk till koden:  
   [https://github.com/orgs/fort118/repositories](https://github.com/orgs/fort118/repositories)  
 
 ---
 
-### §13 Ägarskap  
+### §9 Ägarskap  
 - Kenneth lyfte frågan om föreningens ägarskap, som i dagsläget står på Sven Holt (tidigare kassör).  
 - Kenneth tar ansvar för att ordna upp detta.  
 
