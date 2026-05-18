@@ -1,8 +1,8 @@
 # **Protokoll**
 ## Styrelsemöte Fort 118
 **Datum:** 2026-05-18
-**Plats:** [ange plats – digitalt eller fysiskt?]
-**Tid:** [ange tid]
+**Plats:** Digitalt
+**Tid:** 19:00
 
 ## **Närvarande**
 * Jeremy Karlsson
